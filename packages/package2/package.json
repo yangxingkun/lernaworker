@@ -1,6 +1,6 @@
 {
   "name": "@yangxkb/package2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: Test",
   "author": "yangxingkun <1612166244@qq.com>",
   "homepage": "",
@@ -15,10 +15,9 @@
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
-    "access":"public"
+    "access": "public"
   },
   "scripts": {
     "test": "node ./lib/package2.js"
-
   }
 }

@@ -19,5 +19,6 @@
   },
   "scripts": {
     "test": "node ./lib/package2.js"
-  }
+  },
+  "gitHead": "67f89752b93dd85aceb92a65cc2a2d2af98212eb"
 }

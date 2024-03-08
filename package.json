@@ -4,6 +4,13 @@
   "workspaces": [
     "packages/*"
   ],
+  "keywords": [
+    "我爱自由与阳光，我爱大海和繁星,我爱山川与河流，我爱清风与花香"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangxingkun/lernaworker.git"
+  },
   "devDependencies": {
     "lerna": "^6.6.2"
   }
